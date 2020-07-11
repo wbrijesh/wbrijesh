@@ -9,7 +9,7 @@ Here are some ideas to get you started:
     - Ruby on Rails
     
 - 👯 I’m looking to collaborate on ...
-    -stride
+    - Stride
     
 - 📫 How to reach me: ...
     - brijesh@wawdhane.com
