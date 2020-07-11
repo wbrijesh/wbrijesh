@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
     -stride
 - 📫 How to reach me: ...
-    - brijjesh@wawdhane.com
+    - brijesh@wawdhane.com
     - @BrijeshWA
-- ⚡ Fun fact: ...
+
 
