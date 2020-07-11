@@ -7,8 +7,10 @@ Here are some ideas to get you started:
   
 - 🌱 I’m currently learning ...
     - Ruby on Rails
+    
 - 👯 I’m looking to collaborate on ...
     -stride
+    
 - 📫 How to reach me: ...
     - brijesh@wawdhane.com
     - @BrijeshWA
