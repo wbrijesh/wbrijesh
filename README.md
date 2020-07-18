@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-    - Stride Project management
-  
-- 🌱 I’m currently learning ...
-    - Ruby on Rails
-    
-- 👯 I’m looking to collaborate on ...
-    - Stride
+Here you can find a few projects I am working on
     
 - 📫 How to reach me: ...
     - brijesh@wawdhane.com
