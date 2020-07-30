@@ -2,7 +2,7 @@
 
 Here you can find a few projects I am working on
     
-- 📫 How to reach me: ...
+- 📫 You can reach me at: ...
     - brijesh@wawdhane.com
     - @BrijeshWA
 
