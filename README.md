@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-See projects I am working on here, or learn more about me at [My Site](https://brijesh.dev)
-    
-- 📫 You can reach me at: ...
-    - mail@brijesh.dev
+I am in the process of moving all repositories to my own git server.
 
-https://skyline.github.com/wbrijesh/2022
+- 🧑‍💻 You can find at: [git.brijesh.dev](https://git.brijesh.dev) 
+    
+- 📫 You can reach me at: mail@brijesh.dev
 
 
